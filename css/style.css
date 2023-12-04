@@ -193,7 +193,9 @@ article#main-col{
     text-align: center;
     color: #ffffff;
 }
-
+a{
+   color: white;
+}
 
 /*Media Queries*/
 @media(max-width: 768px ) {
